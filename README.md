@@ -9,7 +9,7 @@ DataSet Description: The Kaggle stroke prediction dataset contains over 5 thousa
 
 Problems Faced: Highly imbalanced dataset (95% non-stroke, 5% stroke), missing values, irrelevant features, and un-encoded categorical variables.
 
-PreProcessing Techniques: One-hot Encoding, feature selection, under-sampling, k-fold cross validation, and nullity encoding.
+PreProcessing Techniques: One-hot Encoding, feature selection, under-sampling, normalization using standard scaler, k-fold cross validation, and nullity encoding.
 
 My Best Performing Models: My Decision Tree model achieved a recall of roughly 96%, meaning out of all the samples that were of patients with strokes, the model was accurrately able to predict 96% of them. My highest accurracy model was Random Forest, achieving an accurracy of roughly 80%, which was around the cap for this imbalanced dataset.
 
