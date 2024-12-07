@@ -1,5 +1,5 @@
 # ML-for-Stroke-Prediction
-Intro: Analysis of the Kaggle Stroke Prediction Dataset using Random Forest, Decision Trees, Neural Networks, KNN, SVM, and GBM.
+Intro: Worked with a team of 4 to perform analysis of the Kaggle Stroke Prediction Dataset using Random Forest, Decision Trees, Neural Networks, KNN, SVM, and GBM.
 
 DataSet: https://www.kaggle.com/datasets/fedesoriano/stroke-prediction-dataset
 
